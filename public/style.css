@@ -1,0 +1,24 @@
+body {
+  background-color: DodgerBlue;
+}
+
+h1 {
+  color: white;
+  margin: 20px;
+  font-size: 60px;
+}
+
+h2 {
+  color: white;
+  font-family: courier;
+  font-size: 35px;
+  indent: 70px;
+}
+
+h3 {
+  color: lightgrey;
+}
+
+h4 {
+  color: green;
+}

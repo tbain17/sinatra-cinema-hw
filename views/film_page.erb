@@ -1,0 +1,9 @@
+<h1><%= @title %></h1>
+
+<h2><%= @price %></h2>
+<h3>Screening times</h3>
+<h3><% for screening in @screenings %></h3>
+<h3><%= screening %></h3>
+<h3><% end %></h3>
+
+<h4><a href="/films">Back to films</a></h4>
